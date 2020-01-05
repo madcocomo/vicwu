@@ -1,0 +1,177 @@
+﻿- useful
+    - Tech writing: https://mkaz.blog/misc/notes-on-technical-writing/
+    - agile games: 
+        - [http://www.agilecoach.net/](http://www.agilecoach.net/)
+        - [https://www.tastycupcakes.org/category/games/](https://www.tastycupcakes.org/category/games/)
+        - [http://limitedwipsociety.ning.com/page/games](http://limitedwipsociety.ning.com/page/games)
+    - later, share
+        - https://www.diagram.codes/
+        - [https://venngage.com/](https://venngage.com/)
+        - https://ncase.me/loopy/
+        - TOC TP: 
+        - tech gether: https://zhuanlan.zhihu.com/c_1012663397820850176
+        - devops: http://devopslive.bopoda.cn/
+        - forecast: https://otexts.org/fpp2/index.html
+        - logic graphic: https://casatwy.com/shi-yong-dotyu-yan-he-graphvizhui-tu-fan-yi.html
+        - book notes:
+            - Narrative, Tree, Branch: https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/
+        - online code editor: https://codemirror.net/
+        - sql http://sqlfiddle.com/
+        - hand draw: https://wiredjs.com/
+        - promising replacement of xml editor: https://github.com/RelaxedJS/ReLaXed
+        - react: https://github.com/enaqx/awesome-react
+        - frontend: https://frontendmasters.com/books/front-end-handbook/2018/
+        - chats: https://usefulcharts.com/
+        - command line tools: https://github.com/dbohdan/structured-text-tools
+        - grep on json: https://github.com/tomnomnom/gron/
+        - ML platform: https://www.comet.ml/
+        - show page: http://www.lonelypage.io/  abc123
+        - http://www.oracle.com/technetwork/server-storage/ts-4961-159222.pdf
+        - TLA+ Formal spec: https://learntla.com/introduction/
+        - http://grepcode.com/
+        - Thread dump analyzer: http://fastthread.io/index.jsp
+        - Try it: https://tio.run/#
+        - commander: http://ranger.nongnu.org/
+        - spacevim: http://spacevim.org/documentation/
+        - Naming: http://unbug.github.io/codelf/
+        - **kata questions:** https://github.com/karan/Projects
+        - shell: http://explainshell.com/
+        - SourceMonitor: http://www.campwoodsw.com/sourcemonitor.html
+        - algorithm http://www.geeksforgeeks.org/
+        - title http://www.williamlong.info/archives/4822.html
+        - git stats: https://github.com/arzzen/git-quick-stats/
+        - Programe Game
+            - xss: [https://xss-game.appspot.com/](https://xss-game.appspot.com/)
+            - game: [https://alexnisnevich.github.io/untrusted/](https://alexnisnevich.github.io/untrusted/)
+            - [https://simonswain.com/coldwar](https://simonswain.com/coldwar)
+            - puzzle script:  [http://www.puzzlescript.net/index.html](http://www.puzzlescript.net/index.html)
+        - http://mappedbus.io
+        - [https://curiosity-driven.org/continuations?hn](https://curiosity-driven.org/continuations?hn)
+        - [https://aim42.github.io](https://aim42.github.io/)/ 
+        - [https://atom.io/packages/hydrogen](https://atom.io/packages/hydrogen)
+        - List:   [http://www.transformy.io](http://www.transformy.io/)
+        - Visually math: [https://github.com/vicapow/explained-visually](https://github.com/vicapow/explained-visually)
+    - Mac
+        - move windows: https://www.spectacleapp.com/
+    - Memo
+        - Tools
+            - project cafe.baidu.com
+            - http://devdocs.io/
+            - Sequence diagram [http://www.websequencediagrams.com](http://www.websequencediagrams.com/)/
+            - [https://www.draw.io/](https://www.draw.io/)
+            - epub reader [http://www.neat-reader.com/](http://www.neat-reader.com/)
+            - grid: [http://gridifier.io/](http://gridifier.io/
+            - code: 
+                - https://coderpad.io/
+                - [http://www.tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+                - [https://ideone.com/](https://ideone.com/)
+                - [https://codio.com](https://codio.com/)
+            - Notes
+                - leanote.com
+                - [https://dynalist.io](https://dynalist.io/)
+                - highlight + mindmap: [https://workflowy.com](https://workflowy.com/)
+            - [https://libraries.io](https://libraries.io/)/
+        - Coding
+            - [code taste](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a#.wbpmhno3n)
+            - TDD: [http://codurance.com/2015/05/12/does-tdd-lead-to-good-design](http://codurance.com/2015/05/12/does-tdd-lead-to-good-design)/
+            - Transformation Priority: 
+                - [https://en.wikipedia.org/wiki/Transformation_Priority_Premise](https://en.wikipedia.org/wiki/Transformation_Priority_Premise)
+                - [http://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html](http://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+                - [http://www.jackyshen.com/2014/02/28/transformation-priority-premise-in-tdd/](http://www.jackyshen.com/2014/02/28/transformation-priority-premise-in-tdd/)
+            - bad code win good [http://www.cs.uni.edu/](http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2015-06.html#e2015-06-14T09_17_33.htm)
+            - [http://lucida.me/blog/whiteboard-coding-demystified/](http://lucida.me/blog/whiteboard-coding-demystified/)
+            - [http://www.slideshare.net/pirhilton/how-to-name-things-the-hardest-problem-in-programming](http://www.slideshare.net/pirhilton/how-to-name-things-the-hardest-problem-in-programming)
+        - performance
+            - Pdflush  IO
+            - mem leak
+                - [http://boke.io/gao-ding-nei-cun-xie-lou/](http://boke.io/gao-ding-nei-cun-xie-lou/)
+                - [https://developer.chrome.com/devtools/docs/tips-and-tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+            - [http://psy-lob-saw.blogspot.hk/2014/12/the-escape-of-arraylistiterator.html](http://psy-lob-saw.blogspot.hk/2014/12/the-escape-of-arraylistiterator.html)
+        - GFW
+            - GDG DNS  115.19.5.78
+            - jlund/streisand
+            - [https://github.com/yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy)
+            - [IPS Plan](https://www.ctexcel.us/orderPlan8001.jspx?iscmdn=0)
+        - HTML Slide
+            - Reveal.js
+            - [http://www.w3.org/Talks/Tools/Slidy2](http://www.w3.org/Talks/Tools/Slidy2)/#(1)
+        - Ms &App
+        - S..._…1
+    - task related
+        - PHP 
+            - installation
+                - [https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
+        - AA
+            - aa: [](http://shiro.apache.org/get-started.html)Apache Shiro;  [Spring Security](http://static.springsource.org/spring-security/site/) 
+            - https://github.com/wsargent/play-shiro
+            - https://github.com/t2v/play2-auth
+            - [https://github.com/pac4j/play-pac4j](https://github.com/pac4j/play-pac4j)
+            - [http://silhouette.mohiva.com](http://silhouette.mohiva.com/)/
+            - Client:
+                - [http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html](http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html)
+            - JWT
+                - [http://www.sitepoint.com/implementing-authentication-angular-applications](http://www.sitepoint.com/implementing-authentication-angular-applications)/
+            - [https://github.com/auth0/angularjs-jwt-authentication-tutorial](https://github.com/auth0/angularjs-jwt-authentication-tutorial)[https://github.com/sahat/satellizer](https://github.com/sahat/satellizer)
+    - gather
+        - Tech
+            - Scala
+                - http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html
+                - https://github.com/lihaoyi/Metascala
+            - elm -- Haskell like html: [http://elm-lang.org/examples](http://elm-lang.org/examples)
+            - Erlang + rail: Elixir
+            - [http://ponylang.org](http://ponylang.org/)/
+            - Julia Web [https://shashi.github.io/Escher.jl](https://shashi.github.io/Escher.jl)/
+        - Machine learning
+            - [https://github.com/ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+            - [http://atpaino.com/2017/01/03/deep-text-correcter.html](http://atpaino.com/2017/01/03/deep-text-correcter.html)
+        - Web design
+            - [http://jgthms.com/web-design-in-4-minutes](http://jgthms.com/web-design-in-4-minutes)
+            - CSS
+                - [http://cssreference.io/](http://cssreference.io/)
+            - Client side file [https://github.com/dcneiner/Downloadify](https://github.com/dcneiner/Downloadify)
+            - [https://developers.google.com/web/updates/2011/08/Saving-generated-files-on-the-client-side](https://developers.google.com/web/updates/2011/08/Saving-generated-files-on-the-client-side)
+            - Browsers:   [http://caniuse.com](http://caniuse.com/)
+        - Design:  [http://makerbook.net](http://makerbook.net/)/
+        - restful [http://restcookbook.com](http://restcookbook.com/)/ 
+        - Js framework:   
+            - Backbone[http://addyosmani.github.io/backbone-fundamentals/](http://addyosmani.github.io/backbone-fundamentals/)
+            - emberjs
+            - Js draw:   [http://modeling-languages.com/javascript-drawing-libraries-diagrams/](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)
+            - Js SVG:    [http://runemadsen.github.io/rune.js/](http://runemadsen.github.io/rune.js/)
+        - Clode Service
+            - word api [https://www.wordsapi.com/docs#words](https://www.wordsapi.com/docs#words)  XX
+            - Clode lambda [http://www.open-lambda.org/index.htm](http://www.open-lambda.org/index.htm)
+            - Free clode: [https://github.com/ripienaar/free-for-dev](http://github.com/ripienaar/free-for-dev)
+            - clode service: DigitalOcean
+        - Soft Skill
+            - interview system [https://www.joinjune.com/](https://www.joinjune.com/) 
+            - cognitive bias: [https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.hjhr54b32](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.hjhr54b32)
+            - Cirtical think: Ana? really? so?
+        - Spring boot test [https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4](https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4) 
+        - [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+        - Hardware
+            - ruff, Arduino, rusbi
+        - https://www.hackerrank.com/
+        - Book
+            - books: [http://pan.baidu.com/wap/share/home?third=0&uk=4029740943&start=1480&adapt=pc&fr=ftw](http://pan.baidu.com/wap/share/home?third=0&uk=4029740943&start=1480&adapt=pc&fr=ftw)
+            - http://m.bookfi.net
+            - https://salttiger.com
+            - 
+        - Course:
+            - [https://www.coursera.org/course/automata](https://www.coursera.org/course/automata)
+        - [http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
+        - Prototype: [https://github.com/tsx/shireframe](https://github.com/tsx/shireframe)
+        - Search API:  [https://www.algolia.com](https://www.algolia.com/)/
+        - [https://www.meteor.com/](http://https//www.meteor.com/)
+        - good review:  [http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/](http://www.ybrikman.com/writing/2014/09/29/nodejs-vs-play-framework/)
+        - API manage: [http://getkong.org](http://getkong.org/)/
+        - Mock http: [https://mockbin.com](https://mockbin.com/)/
+        - Go HTTP server:  [https://caddyserver.com](https://caddyserver.com/)/
+        - Java framework: 
+            - [http://www.jfinal.com](http://www.jfinal.com/)/
+            - [http://jodd.org](http://jodd.org/)/
+        - screenshot: ShareX, OBS
+        - vim 
+            - script:  [https://github.com/amoffat/snake](https://github.com/amoffat/snake)
+            - http://vimawesome.com/
+            - Spacemacs: https://github.com/syl20bnr/spacemacs
